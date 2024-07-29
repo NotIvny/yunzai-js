@@ -1,6 +1,6 @@
 ﻿const ownerList = ["123456789","987654321"]
 const passedList = ["123456789","987654321"]
-export class owner extends plugin {
+export class hideOwner extends plugin {
     constructor() {
       super({
         name: "隐藏主人",
